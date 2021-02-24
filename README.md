@@ -1,4 +1,4 @@
-# R development container for VSCode
+# LaTeX development container for VSCode
 
 A LaTeX development container for [Visual Studio Code](https://code.visualstudio.com/) with [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension. It is a linux environment based on Ubuntu. It contains `texlive` and has [Oh-my-bash](https://ohmybash.nntoan.com/).
 
