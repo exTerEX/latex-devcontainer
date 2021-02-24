@@ -1,0 +1,9 @@
+.git/
+LICENSE
+.github/
+.devcontainer/
+README.md
+.editorconfig
+.vscode/
+.gitignore
+.dockerignore
